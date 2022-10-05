@@ -44,3 +44,10 @@ to write three function each function return nth number from math series
 - Describe any tests that you did not complete, skipped, etc  
   no ,all the test copmlete 
 
+- how to run the test 
+  1. pytest
+  2. pytest tests/fib_iteration.py    
+  3.  pytest tests/fib_recursion .py
+  4. pytest tests/lucas-recursion.py
+  5. pytest tests/sum_series.py
+
